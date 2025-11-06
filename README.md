@@ -59,7 +59,7 @@ prompts/
 
 欢迎加入微信群一起vibe coding：
 
-<img src="./QRCode.svg" alt="微信交流群二维码" width="200">
+<img src="https://github.com/kingkongshot/prompts/blob/main/QRCode.png" alt="微信交流群二维码" width="200">
 
 ## 📄 许可证
 
